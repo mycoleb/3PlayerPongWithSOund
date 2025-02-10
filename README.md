@@ -1,6 +1,6 @@
 # We must build 3 person pong
 
-The intent of this fork is to make modifications and improve the replay ability of the 3 person pong game developed by Mycole as well as just learn my way around the pygame library.
+The intent of this fork is to make modifications and improve the replay ability of the 3 person pong game I (Mycole) developed and build on top of modifications made by my friend Charlie.  I also want to get mroe familiar with the pygame library.
 
 ## Controls
 1P (RED): A, S  
